@@ -8,7 +8,7 @@ var turns = 0;
 
 
 // var imgOrder =["1","2","3","4","5","6","7","8","9"];
-var imgOrder =["7","4","5","2","6","3","1","8","9"];
+var imgOrder =["4","7","5","2","6","3","1","8","9"];
 
 window.onload = function(){
     for (let rows=0; rows < 3; rows++){   //for input images(9)
